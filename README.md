@@ -1,2 +1,4 @@
 # Rock-Paper-Scissors
-A code here is toatally written for the console in accordance with tasks in The Odin Project(TOP).
+Firstly A code here was toatally written for the console in accordance with tasks in The Odin Project(TOP).
+
+Secondly tremendeous code to add UI were added
